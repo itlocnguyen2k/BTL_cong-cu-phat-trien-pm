@@ -1,0 +1,73 @@
+body{
+	background-color: #F8F8F8;
+
+}
+.boxmohui{
+	/*border: 1px solid #E7E7E7;*/
+	width: 450px;
+	
+	height: auto;
+	margin-right: 10px;
+}
+.img-mohui{
+	float: left;
+	width: 100px;
+	height: 100px;
+}
+section .logo_img{
+font-size: 20px;
+color: #DB3A55;
+}
+.header{
+	color: #E47255;
+	font-size: 30px;
+	border: 1px solid #E7E7E7;
+	padding: 10px;
+	text-align: center;
+	background-color: white;
+}
+
+.wrap{
+	margin-top: 5px;
+	padding: 1px;
+	background-color: white;
+}
+.wrap ul{
+	list-style: none;
+	padding: 0px;
+	}
+.content{
+padding: 8px;
+}
+.recorded{
+	margin-top: 0px;
+	padding: 0px;
+	overflow: auto;
+	border: 1px solid #E7E7E7;
+}
+.sophathanh{
+	
+	color: #6E7DA3;
+	text-decoration: none;
+	font-size: 20px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 5px;
+}
+.headsph {
+	background-color: #E7E7E7;
+}
+.section-mohui{
+	color: #484866;
+	font-size: 18px;
+}
+.user{
+	text-decoration: none;
+}
+.section-mohui ul {
+	line-height: 1.4;
+}
+#tien{
+	color: red;
+}

@@ -1,0 +1,29 @@
+.hidden-lg-a{
+	list-style: none;
+}
+.hidden-lg-a{
+	height: 50px;
+	line-height: 50px;
+	padding-left: 100px;
+}
+.hidden-lg-a li{
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.hidden-lg-a li:first-child{
+	background: #59d77d;
+}
+.hidden-lg-a li:hover{
+	background: #59d77d;
+}
+.hidden-lg-a:hover li{ 
+	color: blue;
+}
+.hidden-lg-a li a:hover{
+
+}
+.hidden-lg-a li a{
+	color: white;
+	display: block;
+}
